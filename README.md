@@ -83,6 +83,4 @@ To get started with the Podcast Web App, follow the instructions below.
 
 We welcome contributions from the community! If you find any issues or want to enhance the Podcast Web App, please submit a pull request. Make sure to follow the existing code style and include relevant tests.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per your needs.
